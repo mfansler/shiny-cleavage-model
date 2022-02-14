@@ -1,0 +1,9 @@
+name: shiny-cleavage-model
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1
+  - r-shiny
+  - r-shinydashboard
+  - r-tidyverse
+  - r-desolve
